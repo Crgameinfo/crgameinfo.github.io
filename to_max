@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let year = prompt('В каком году было крещение Руси', '');
+
+if (year == 988) alert( 'Верно' );
+if (year != 988) alert( 'НЕверно' );
+</script>
